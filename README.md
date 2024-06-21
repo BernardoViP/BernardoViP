@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=AA3535&descAlignY=39&descAlign=70&reversal=false&textBg=false&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0080FF"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BernardoViP&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="" />
@@ -26,4 +26,4 @@
 <a href="https://axios-http.com/ptbr/docs/intro" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" alt="axios" width="50" height="50"/> </a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="Babel" width="50" height="50"/> </a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=AA3535&descAlignY=39&descAlign=70&reversal=false&textBg=false&section=footer"/></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=AD0000&section=footer"/></p>
