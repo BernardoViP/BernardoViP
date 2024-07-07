@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Me chamo Bernardo! Sou desenvolvedor junior Front-end e estou entrando neste vasto mundo da programação e procuro todos os conhecimentos que vão me auxiliar no futuro.
+  <p>Me chamo Bernardo, desenvolvedor junior Front-end e estou entrando neste vasto mundo da programação e procuro todos os conhecimentos que vão me auxiliar no futuro.
   A procura do primeiro emprego!</p>
 </div>
 
