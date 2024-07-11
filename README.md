@@ -1,9 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0080FF"/>
 <div align="center">
   <p>Me chamo Bernardo, desenvolvedor junior Front-end e estou entrando neste vasto mundo da programação e procuro todos os conhecimentos que vão me auxiliar no futuro.
   A procura do primeiro emprego.</p>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0080FF"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BernardoViP&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="" />
