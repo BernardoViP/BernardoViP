@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=AD0500"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=AD05000"/>
 <div align="center">
   <p>Me chamo Bernardo, desenvolvedor junior Front-end e estou entrando neste vasto mundo da programação e procuro todos os conhecimentos que vão me auxiliar no futuro.
   A procura do primeiro emprego.</p>
