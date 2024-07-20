@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=AD0000"/>
 <div align="center">
-  <p>Me chamo Bernardo, desenvolvedor junior Front-end e estou entrando neste vasto mundo da programação e procuro todos os conhecimentos que vão me auxiliar no futuro.
+  <p>Me chamo Bernardo, desenvolvedor junior Front-end e estou entrando neste vasto mundo da Programação e procuro todos os conhecimentos que vão me auxiliar no futuro.
   A procura do primeiro emprego.</p>
 </div>
 
